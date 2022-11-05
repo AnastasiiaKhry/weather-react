@@ -62,7 +62,7 @@ function App() {
         </div>
       </div>
       <p class="code">
-        <a href="https://github.com/AnastasiiaKhry/home-5aaforked.git">
+        <a href="https://github.com/AnastasiiaKhry/weather-react.git">
           {" "}
           Open-source code
         </a>{" "}
